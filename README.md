@@ -11,7 +11,7 @@ Python can be installed through the [Python website](https://www.python.org/down
 ### 3. Run the mlb_simulator.py file
 Open and run the file to begin playing. Follow the instructions from the shell.
 
-### Future Improvements
+## Future Improvements
 Some planned improvements for this program include:
 - Graphical interface through the tkinter library
 - Increased length of game to a typical 9 innings
